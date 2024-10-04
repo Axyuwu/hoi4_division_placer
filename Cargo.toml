@@ -1,0 +1,10 @@
+[package]
+name = "hoi4_division_placer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.89"
+image = "0.25.2"
+wgpu = "22.1.0"
+winit = "0.30.5"
